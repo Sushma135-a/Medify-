@@ -1,2 +1,2 @@
-# Medify-
+# Medify+
 Online Medical Shopping website
